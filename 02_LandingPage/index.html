@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rentzy - House Rentals Made Simple</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <h1 class="logo">🏠 Rentzy</h1>
+        <div class="hamburger" onclick="toggleMenu()">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+        <nav>
+          <ul class="nav-links" id="navMenu">
+            <li><a href="#services">Services</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#pricing">Pricing</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="hero-content">
+        <h2>Find Your Next Rental With Ease</h2>
+        <p>
+          Rentzy helps you discover the perfect house with verified listings,
+          flexible pricing, and zero hassle.
+        </p>
+        <a href="#contact" class="cta-btn">Get Started</a>
+      </div>
+      <div class="hero-image">
+        <img
+          src="assets/images/house-hero.png"
+          alt="House Rental Illustration"
+        />
+      </div>
+    </section>
+
+    <section class="services" id="services">
+      <div class="container">
+        <h2 class="section-title">Our Services</h2>
+        <div class="services-grid">
+          <div class="service-card">
+            <i class="fas fa-home"></i>
+            <h3>Verified Listings</h3>
+            <p>Every property is verified for safety, legality, and comfort.</p>
+          </div>
+          <div class="service-card">
+            <i class="fas fa-bolt"></i>
+            <h3>Instant Booking</h3>
+            <p>Book your next rental instantly with our secure platform.</p>
+          </div>
+          <div class="service-card">
+            <i class="fas fa-headset"></i>
+            <h3>24/7 Support</h3>
+            <p>We're here to help any time, any day of the week.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="testimonials" id="testimonials">
+      <div class="container">
+        <h2 class="section-title">What Our Users Say</h2>
+        <div class="testimonial-grid">
+          <div class="testimonial-card">
+            <img src="https://i.pravatar.cc/100?img=3" alt="User 1" />
+            <h3>Aarav S.</h3>
+            <p class="stars">★★★★★</p>
+            <p class="quote">
+              “Rentzy made my house hunt so easy. Found a verified place in
+              minutes!”
+            </p>
+          </div>
+          <div class="testimonial-card">
+            <img src="https://i.pravatar.cc/100?img=5" alt="User 2" />
+            <h3>Ishita R.</h3>
+            <p class="stars">★★★★☆</p>
+            <p class="quote">
+              “Loved the user experience and instant booking feature. Highly
+              recommended!”
+            </p>
+          </div>
+          <div class="testimonial-card">
+            <img src="https://i.pravatar.cc/100?img=8" alt="User 3" />
+            <h3>Rahul T.</h3>
+            <p class="stars">★★★★★</p>
+            <p class="quote">
+              “Customer support was top-notch. I felt very taken care of!”
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="pricing" id="pricing">
+      <div class="container">
+        <h2 class="section-title">Our Pricing Plans</h2>
+        <div class="pricing-grid">
+          <div class="pricing-card">
+            <h3>Basic</h3>
+            <p class="price">₹499<span>/mo</span></p>
+            <ul>
+              <li>✔ 1 Listing</li>
+              <li>✔ Basic Support</li>
+              <li>✖ Featured Listing</li>
+            </ul>
+            <a href="#" class="cta-btn">Get Started</a>
+          </div>
+          <div class="pricing-card popular">
+            <h3>Premium</h3>
+            <p class="price">₹999<span>/mo</span></p>
+            <ul>
+              <li>✔ 5 Listings</li>
+              <li>✔ Priority Support</li>
+              <li>✔ Featured Listing</li>
+            </ul>
+            <a href="#" class="cta-btn">Get Started</a>
+          </div>
+          <div class="pricing-card">
+            <h3>Pro</h3>
+            <p class="price">₹1499<span>/mo</span></p>
+            <ul>
+              <li>✔ Unlimited Listings</li>
+              <li>✔ 24/7 Support</li>
+              <li>✔ Premium Visibility</li>
+            </ul>
+            <a href="#" class="cta-btn">Get Started</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact" id="contact">
+      <div class="container">
+        <h2 class="section-title">Get in Touch</h2>
+        <form class="contact-form">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Your Name" required />
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="Your Email" required />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea
+              id="message"
+              rows="5"
+              placeholder="Your Message"
+              required
+            ></textarea>
+          </div>
+          <button type="submit" class="cta-btn">Send Message</button>
+        </form>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container footer-inner">
+        <h2 class="footer-logo">🏠 Rentzy</h2>
+        <p class="footer-tagline">Find your next home effortlessly.</p>
+        <div class="footer-socials">
+          <a href="#"><i class="fab fa-facebook-f"></i></a>
+          <a href="#"><i class="fab fa-twitter"></i></a>
+          <a href="#"><i class="fab fa-instagram"></i></a>
+        </div>
+        <p class="footer-copy">&copy; 2025 Rentzy. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
