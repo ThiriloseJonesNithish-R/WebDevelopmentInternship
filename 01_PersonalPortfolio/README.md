@@ -40,7 +40,9 @@ code 01_Portfolio/README.md
 2. Replace **everything** with the fixed version above.
 
 3. Then commit and push again:
-
+```
 git add .
 git commit -m "Fixed README formatting for GitHub visibility"
 git push
+
+```
