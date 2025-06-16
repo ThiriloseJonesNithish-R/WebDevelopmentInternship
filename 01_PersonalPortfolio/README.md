@@ -29,20 +29,3 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 
 > 💡 *This is Project 1 of 8 in my Web Development Internship Series.*  
 > Stay tuned for more projects soon!
-
-### ✅ Quick Fix Steps
-
-1. Open your README again:
-
-
-code 01_Portfolio/README.md
-
-2. Replace **everything** with the fixed version above.
-
-3. Then commit and push again:
-```
-git add .
-git commit -m "Fixed README formatting for GitHub visibility"
-git push
-
-```
