@@ -1,4 +1,7 @@
-### ✅ `01_Portfolio/README.md`
+
+---
+
+### ✅ FIXED `README.md` (100% GitHub-visible)
 
 ```markdown
 # 🌐 Personal Portfolio Website
@@ -17,12 +20,12 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 
 ## 📌 Features
 
-- 📄 About Me, Skills, Projects, and Contact sections
-- 📥 Resume Download (PDF)
-- 🔗 Social media links (LinkedIn, GitHub)
-- 🧑‍💻 Profile image and bio
-- ⚙️ Fully responsive layout for mobile, tablet, and desktop
-- 🌐 Hosted on Netlify with GitHub integration
+- 📄 About Me, Skills, Projects, and Contact sections  
+- 📥 Resume Download (PDF)  
+- 🔗 Social media links (LinkedIn, GitHub)  
+- 🧑‍💻 Profile image and bio  
+- ⚙️ Fully responsive layout for mobile, tablet, and desktop  
+- 🌐 Hosted on Netlify with GitHub integration  
 
 ---
 
@@ -55,25 +58,37 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 
 ---
 
+## ✍️ Author
+
+**Thirilose Jones Nithish**  
+📧 [mailtotjn@gmail.com](mailto:mailtotjn@gmail.com)  
+🔗 [GitHub](https://github.com/ThiriloseJonesNithish-R)  
+🔗 [LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)
+
+---
+
 > 💡 *This is Project 1 of 8 in my Web Development Internship Series.*  
 > Stay tuned for more projects soon!
 ```
 
 ---
 
-### 📌 How to Add It
+### ✅ Quick Fix Steps
 
-1. Create a file inside `01_Portfolio/` folder:
+1. Open your README again:
 
 ```bash
 code 01_Portfolio/README.md
 ```
 
-2. Paste the above content into it.
-3. Save and commit:
+2. Replace **everything** with the fixed version above.
+
+3. Then commit and push again:
 
 ```bash
 git add .
-git commit -m "Added professional README for portfolio project"
+git commit -m "Fixed README formatting for GitHub visibility"
 git push
 ```
+
+---
