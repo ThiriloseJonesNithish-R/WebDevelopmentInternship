@@ -8,16 +8,12 @@
 
 Rentzy is a modern, responsive landing page for a fictional house rental service. It’s built using clean HTML and CSS with a sleek dark theme and consistent UI components — perfect for practicing frontend skills or showcasing your portfolio.
 
-## 🌑 Live Preview
-[Click here to preview](#) *(Add your GitHub Pages or Netlify link here)*
-
----
-
-## 📸 Screenshots
+ 📸 Screenshots
 
 ![Rentzy Hero Section](screenshots/hero.png)  
 ![Services Section](screenshots/services.png)  
-![Testimonials + Pricing](screenshots/testimonials-pricing.png)  
+![Testimonials](screenshots/testimonials.png)
+![Pricing](screenshots/pricing.png)   
 ![Contact + Footer](screenshots/contact-footer.png)
 
 ---
@@ -66,4 +62,3 @@ git clone https://github.com/yourusername/rentzy-landing-page.git
 2. Open the project in VS Code or any editor.
 3. Open `index.html` in your browser or use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 4. Customize content, links, or styles as needed.
-```
