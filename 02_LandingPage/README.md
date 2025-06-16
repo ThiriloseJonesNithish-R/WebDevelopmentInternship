@@ -10,11 +10,14 @@ Rentzy is a modern, responsive landing page for a fictional house rental service
 
 # 📸 Screenshots
 
-![Rentzy Hero Section](screenshots/hero.png)  
-![Services Section](screenshots/services.png)  
-![Testimonials](screenshots/testimonials.png)  
-![Pricing](screenshots/pricing.png)  
-![Contact + Footer](screenshots/contact-footer.png)
+# 📸 Screenshots
+
+![Hero](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/hero.png)  
+![Services](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/services.png)  
+![Testimonials](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/testimonials.png)  
+![Pricing](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/pricing.png)  
+![Contact + Footer](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/contact-footer.png)
+
 
 ---
 
