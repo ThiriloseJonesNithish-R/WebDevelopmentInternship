@@ -28,6 +28,7 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 - **Git & GitHub** (for version control)
 
 ## 📁 Folder Structure
+---
 
 01\_Portfolio/
 ├── assets/
@@ -37,6 +38,8 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 ├── style.css
 ├── resume.pdf
 └── README.md
+
+---
 
 ## ✍️ Author
 
