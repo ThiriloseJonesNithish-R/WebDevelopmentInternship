@@ -27,27 +27,6 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 - **Netlify** (for hosting)
 - **Git & GitHub** (for version control)
 
-## 📁 Folder Structure
----
-
-01\_Portfolio/
-├── assets/
-│   ├── images/
-│   └── css/
-├── index.html
-├── style.css
-├── resume.pdf
-└── README.md
-
----
-
-## ✍️ Author
-
-**Thirilose Jones Nithish**  
-📧 [mailtotjn@gmail.com](mailto:mailtotjn@gmail.com)  
-🔗 [GitHub](https://github.com/ThiriloseJonesNithish-R)  
-🔗 [LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)
-
 > 💡 *This is Project 1 of 8 in my Web Development Internship Series.*  
 > Stay tuned for more projects soon!
 
