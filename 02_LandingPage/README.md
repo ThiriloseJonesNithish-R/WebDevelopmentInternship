@@ -8,13 +8,13 @@
 
 Rentzy is a modern, responsive landing page for a fictional house rental service. It’s built using clean HTML and CSS with a sleek dark theme and consistent UI components — perfect for practicing frontend skills or showcasing your portfolio.
 
- 📸 Screenshots
+# 📸 Screenshots
 
-![Rentzy Hero Section](screenshots/hero.png)  
-![Services Section](screenshots/services.png)  
-![Testimonials](screenshots/testimonials.png)
-![Pricing](screenshots/pricing.png)   
-![Contact + Footer](screenshots/contact-footer.png)
+![Rentzy Hero Section](02_LandingPage\screenshots\hero.png)  
+![Services Section](02_LandingPage\screenshots\services.png)  
+![Testimonials](02_LandingPage\screenshots\testimonials.png)
+![Pricing](02_LandingPage\screenshots\pricing.png)   
+![Contact + Footer](02_LandingPage\screenshots\contact-footer.png)
 
 ---
 
@@ -42,7 +42,7 @@ Rentzy is a modern, responsive landing page for a fictional house rental service
 
 ## 📦 Folder Structure
 
-```bash
+```
 Rentzy/
 │
 ├── index.html
@@ -56,7 +56,7 @@ Rentzy/
 1. Clone the repo:
 
 ```
-git clone https://github.com/yourusername/rentzy-landing-page.git
+git clone https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship.git
 ```
 
 2. Open the project in VS Code or any editor.
