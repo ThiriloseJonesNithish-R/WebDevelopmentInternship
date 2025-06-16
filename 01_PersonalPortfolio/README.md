@@ -4,13 +4,9 @@
 
 A responsive personal portfolio site showcasing my skills, projects, achievements, and resume. Built as part of my Web Development Internship to create an online presence that reflects both technical and creative abilities.
 
----
-
 ## 🚀 Live Demo
 
 🔗 [View Portfolio](https://01portfoliopage.netlify.app/)
-
----
 
 ## 📌 Features
 
@@ -20,8 +16,6 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 - 🧑‍💻 Profile image and bio  
 - ⚙️ Fully responsive layout for mobile, tablet, and desktop  
 - 🌐 Hosted on Netlify with GitHub integration  
-
----
 
 ## 🛠️ Built With
 
@@ -33,11 +27,7 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 - **Netlify** (for hosting)
 - **Git & GitHub** (for version control)
 
----
-
 ## 📁 Folder Structure
-
-```
 
 01\_Portfolio/
 ├── assets/
@@ -48,10 +38,6 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 ├── resume.pdf
 └── README.md
 
-```
-
----
-
 ## ✍️ Author
 
 **Thirilose Jones Nithish**  
@@ -59,30 +45,20 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 🔗 [GitHub](https://github.com/ThiriloseJonesNithish-R)  
 🔗 [LinkedIn](https://linkedin.com/in/thirilose-jones-nithish)
 
----
-
 > 💡 *This is Project 1 of 8 in my Web Development Internship Series.*  
 > Stay tuned for more projects soon!
-```
-
----
 
 ### ✅ Quick Fix Steps
 
 1. Open your README again:
 
-```bash
+
 code 01_Portfolio/README.md
-```
 
 2. Replace **everything** with the fixed version above.
 
 3. Then commit and push again:
 
-```bash
 git add .
 git commit -m "Fixed README formatting for GitHub visibility"
 git push
-```
-
----
