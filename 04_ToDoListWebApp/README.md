@@ -20,7 +20,7 @@ A simple and responsive to-do list web application built with HTML, CSS, and Jav
 
 ## 🖼️ UI Preview
 
-![To-Do App Screenshot](screenshots/todo-preview.png)
+![To-Do App Screenshot](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/25cc253a72a34d98f6b7055d91ad0f898cd289d4/04_ToDoListWebApp/screenshots/preview.png)
 
 ---
 
