@@ -1,0 +1,168 @@
+/* Reset & Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+  background-color: #121212;
+  color: #ffffff;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #1e1e1e;
+  padding: 30px 20px;
+  text-align: center;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  color: #9575cd;
+  margin-bottom: 10px;
+}
+
+header p {
+  color: #cccccc;
+  font-size: 1rem;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.form-section,
+.preview-section {
+  flex: 1;
+  min-width: 320px;
+}
+
+/* Form Styles */
+form {
+  background-color: #1e1e1e;
+  padding: 30px 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 230, 118, 0.1);
+}
+
+h2,
+h3 {
+  color: #9575cd;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #eeeeee;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 12px;
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #333;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+  border-color: #9575cd;
+}
+
+/* Buttons */
+.form-buttons {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+button {
+  background-color: #9575cd;
+  color: #121212;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #7e57c2;
+}
+
+/* Resume Preview */
+.preview-section {
+  background-color: #1c1c1c;
+  padding: 30px 25px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 230, 118, 0.1);
+}
+
+#resume-preview {
+  background-color: #222;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #2a2a2a;
+  color: #ffffff;
+}
+
+#resume-preview h3 {
+  color: #9575cd;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+#resume-preview p,
+#resume-preview li {
+  margin-bottom: 10px;
+}
+
+#resume-preview ul {
+  list-style: disc inside;
+  padding-left: 15px;
+}
+
+/* Responsive Tweaks */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .form-buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+/* Centered single button */
+.single-button {
+  justify-content: center;
+}
+
+.single-button button {
+  width: 100%;
+  max-width: 300px;
+  text-align: center;
+}
