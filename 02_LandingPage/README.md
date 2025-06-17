@@ -1,21 +1,16 @@
-
----
-
 ### ✅ `README.md`
 
-````markdown
 # 🏠 Rentzy - Responsive Dark-Themed Landing Page
 
 Rentzy is a modern, responsive landing page for a fictional house rental service. It’s built using clean HTML and CSS with a sleek dark theme and consistent UI components — perfect for practicing frontend skills or showcasing your portfolio.
-https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/main/02_LandingPage/screenshots/contact-footer.png
+
 # 📸 Screenshots
 
-![Hero](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/hero.png)  
-![Services](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/services.png)  
-![Testimonials](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/testimonials.png)  
-![Pricing](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/pricing.png)  
-![Contact + Footer](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/contact-footer.png)
-
+![Hero](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/653a1eb5748f5dc6c3e98d40d703d1b5016510eb/02_LandingPage/screenshots/hero.png)
+![Services](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/653a1eb5748f5dc6c3e98d40d703d1b5016510eb/02_LandingPage/screenshots/services.png)  
+![Testimonials](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/653a1eb5748f5dc6c3e98d40d703d1b5016510eb/02_LandingPage/screenshots/testimonials.png)  
+![Pricing](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/653a1eb5748f5dc6c3e98d40d703d1b5016510eb/02_LandingPage/screenshots/pricing.png)  
+![Contact + Footer](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/653a1eb5748f5dc6c3e98d40d703d1b5016510eb/02_LandingPage/screenshots/contact-footer.png)
 
 ---
 
