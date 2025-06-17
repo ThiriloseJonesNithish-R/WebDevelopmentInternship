@@ -7,9 +7,7 @@
 # 🏠 Rentzy - Responsive Dark-Themed Landing Page
 
 Rentzy is a modern, responsive landing page for a fictional house rental service. It’s built using clean HTML and CSS with a sleek dark theme and consistent UI components — perfect for practicing frontend skills or showcasing your portfolio.
-
-# 📸 Screenshots
-
+https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/main/02_LandingPage/screenshots/contact-footer.png
 # 📸 Screenshots
 
 ![Hero](https://raw.githubusercontent.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/main/02_LandingPage/screenshots/hero.png)  
