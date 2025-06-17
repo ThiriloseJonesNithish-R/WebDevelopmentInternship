@@ -22,7 +22,7 @@ A simple, elegant, and responsive web app to build and download your resume as a
 
 ## 📸 Preview
 
-![resume builder preview screenshot](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/tree/76bbcf37b754ce75756ee4c7892ab534afe28593/03_ResumeBuilder/screenshots) 
+![resume builder preview screenshot](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/8214a5ea3345ecab7ab99985293872aeee7e722c/03_ResumeBuilder/screenshots/preview.png) 
 
 ## 📂 Folder Structure
 
@@ -54,6 +54,3 @@ project-folder/
 ## 🔓 License
 
 This project is open-source and free to use.
-```
-
----
