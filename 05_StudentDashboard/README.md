@@ -4,7 +4,7 @@ A lightweight, responsive web-based dashboard for managing student records using
 
 ## 📸 Preview
 
-> ![Screenshot of dashboard](preview.png)  
+> ![Screenshot of dashboard](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/f3063e3dcd756a2f79e89a1c8d8cd7e85375aee5/05_StudentDashboard/screenshots/preview.png)  
 
 ---
 
