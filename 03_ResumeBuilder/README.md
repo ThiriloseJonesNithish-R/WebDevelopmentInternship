@@ -22,7 +22,7 @@ A simple, elegant, and responsive web app to build and download your resume as a
 
 ## 📸 Preview
 
-![resume builder preview screenshot](preview.png) 
+![resume builder preview screenshot](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/tree/76bbcf37b754ce75756ee4c7892ab534afe28593/03_ResumeBuilder/screenshots) 
 
 ## 📂 Folder Structure
 
