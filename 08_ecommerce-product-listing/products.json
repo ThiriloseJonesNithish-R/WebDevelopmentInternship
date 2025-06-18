@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "category": "Clothing",
+    "price": 499.00,
+    "rating": 4.2,
+    "image": "images/Products/Classic T-Shirt.png",
+    "description": "Comfortable cotton t-shirt perfect for casual wear."
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 1299.99,
+    "rating": 4.7,
+    "image": "images/Products/Wireless Headphones.png",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 3,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 799.50,
+    "rating": 4.1,
+    "image": "images/Products/Leather Wallet.png",
+    "description": "Stylish leather wallet with multiple compartments."
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 1999.00,
+    "rating": 4.6,
+    "image": "images/Products/Smart Watch.png",
+    "description": "Fitness smart watch with heart-rate monitor and GPS."
+  },
+  {
+    "id": 5,
+    "name": "Formal Shirt",
+    "category": "Clothing",
+    "price": 899.00,
+    "rating": 3.9,
+    "image": "images/Products/Formal Shirt.png",
+    "description": "Slim-fit formal shirt perfect for office wear."
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 599.99,
+    "rating": 4.3,
+    "image": "images/Products/Sunglasses.png",
+    "description": "UV-protected stylish sunglasses for sunny days."
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 999.00,
+    "rating": 4.4,
+    "image": "images/Products/Bluetooth Speaker.png",
+    "description": "Portable Bluetooth speaker with deep bass and long battery life."
+  },
+  {
+    "id": 8,
+    "name": "Denim Jeans",
+    "category": "Clothing",
+    "price": 1499.00,
+    "rating": 4.0,
+    "image": "images/Products/Denim Jeans.png",
+    "description": "Durable and comfortable slim-fit jeans."
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 1299.00,
+    "rating": 4.2,
+    "image": "images/Products/Backpack.png",
+    "description": "Spacious backpack ideal for travel and college."
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 749.00,    
+    "rating": 3.8,
+    "image": "images/Products/Fitness Tracker.png",
+    "description": "Track your steps, sleep, and workouts easily."
+  },
+  {
+    "id": 11,
+    "name": "Printed T-Shirt",
+    "category": "Clothing",
+    "price": 549.00,
+    "rating": 4.5,
+    "image": "images/Products/Printed T-Shirt.png",
+    "description": "Cool printed t-shirt for daily wear."
+  },
+  {
+    "id": 12,
+    "name": "Watch Organizer",
+    "category": "Accessories",
+    "price": 449.00,
+    "rating": 3.7,
+    "image": "images/Products/Watch Organizer.png",
+    "description": "Elegant organizer to store and protect your watches."
+  }
+]

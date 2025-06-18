@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ShopEase | Products</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="dark-theme">
+    <!-- Header -->
+    <header class="navbar">
+      <h1>🛍️ ShopEase</h1>
+      <input type="text" id="searchBar" placeholder="🔍 Search products..." />
+    </header>
+
+    <!-- Main Layout -->
+    <main class="main-layout">
+      <!-- Sidebar Filters -->
+      <button id="toggleFilters" class="filter-toggle">Show Filters</button>
+
+      <aside class="filters">
+        <h2>🧰 Filters</h2>
+
+        <div class="filter-group">
+          <label for="categoryFilter">Category</label>
+          <select id="categoryFilter">
+            <option value="All">All</option>
+            <option value="Clothing">Clothing</option>
+            <option value="Electronics">Electronics</option>
+            <option value="Accessories">Accessories</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="priceFilter">Max Price (₹)</label>
+          <input
+            type="range"
+            id="priceFilter"
+            min="0"
+            max="2500"
+            step="100"
+            value="2500"
+          />
+          <span id="priceValue">₹2500</span>
+        </div>
+
+        <div class="filter-group">
+          <label for="ratingFilter">Minimum Rating</label>
+          <select id="ratingFilter">
+            <option value="0">All</option>
+            <option value="3">3★ & up</option>
+            <option value="4">4★ & up</option>
+          </select>
+        </div>
+      </aside>
+
+      <!-- Product Grid -->
+      <section class="product-grid" id="productGrid">
+        <!-- JS will populate cards here -->
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025 ShopEase | All rights reserved.</p>
+    </footer>
+
+    <!-- Product Detail Modal -->
+    <div id="product-modal" class="modal hidden">
+      <div class="modal-content">
+        <span id="modal-close" class="close-btn">✖️</span>
+        <img id="modal-img" src="" alt="Product Image" />
+        <h3 id="modal-title"></h3>
+        <p id="modal-desc"></p>
+        <p><strong>Category:</strong> <span id="modal-category"></span></p>
+        <p><strong>Price:</strong> ₹<span id="modal-price"></span></p>
+        <p><strong>Rating:</strong> ⭐ <span id="modal-rating"></span></p>
+      </div>
+    </div>
+    <script>
+      const toggleBtn = document.getElementById("toggleFilters");
+      const controls = document.querySelector(".filters"); // ✅ FIXED
+
+      toggleBtn.addEventListener("click", () => {
+        controls.classList.toggle("show");
+        toggleBtn.textContent = controls.classList.contains("show")
+          ? "Hide Filters"
+          : "Show Filters";
+      });
+    </script>
+
+    <script src="script.js"></script>
+  </body>
+</html>
