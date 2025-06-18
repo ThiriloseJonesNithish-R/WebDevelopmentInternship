@@ -152,7 +152,7 @@ All projects were built with **mobile-first** principles.
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/WebDevelopmentInternship.git
+git clone https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship.git
 
 # Open any project folder
 cd Project4-ToDoApp
