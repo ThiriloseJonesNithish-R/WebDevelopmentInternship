@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Markdown Blog | View Posts</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="dark-theme">
+
+  <header class="navbar">
+    <h1>📚 Markdown Blog</h1>
+    <nav>
+      <a href="index.html">Write</a>
+      <a href="posts.html" class="active">View Posts</a>
+    </nav>
+  </header>
+
+  <main class="posts-container">
+    <h2>📝 All Blog Posts</h2>
+
+    <input type="text" id="search-input" placeholder="🔍 Search posts..." />
+
+    <div id="posts-list"></div>
+  </main>
+
+  <footer>
+    <small>© 2025 Markdown Blog Platform</small>
+  </footer>
+
+  <script src="posts.js"></script>
+</body>
+</html>

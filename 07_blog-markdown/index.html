@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Markdown Blog | Write</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="dark-theme">
+
+  <header class="navbar">
+    <h1>📝 Markdown Blog</h1>
+    <nav>
+      <a href="index.html" class="active">Write</a>
+      <a href="posts.html">View Posts</a>
+    </nav>
+  </header>
+
+  <main class="editor-container">
+    <div class="editor">
+      <h2>Write in Markdown</h2>
+      <textarea id="markdown-input" placeholder="Start typing your blog post using Markdown..."></textarea>
+      <button id="save-btn">💾 Save Post</button>
+    </div>
+
+    <div class="preview">
+      <h2>Live Preview</h2>
+      <div id="preview-output"></div>
+    </div>
+  </main>
+
+  <footer>
+    <small>© 2025 Markdown Blog Platform</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
