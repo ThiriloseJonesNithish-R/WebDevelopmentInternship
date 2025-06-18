@@ -10,14 +10,14 @@ Each project has a clear goal, creative UI, and real-world application!
 
 ## 🧭 Table of Contents
 
-1. [Responsive Portfolio Website](#01_PersonalPortfolio)
-2. [Rentzy – House Rental Landing Page](#02_LandingPage)
-3. [Digital Resume Builder](#03_ResumeBuilder)
-4. [To-Do List Web App](#4-to-do-list-web-app)
-5. [Student Management Dashboard](#5-student-management-dashboard)
-6. [College Gaming Club Website](#6-college-gaming-club-website)
-7. [Blog Website with Markdown](#7-blog-website-with-markdown-support)
-8. [ShopEase – E-Commerce Product Listing](#8-shopease--e-commerce-product-listing)
+1. [Responsive Portfolio Website]
+2. [Rentzy – House Rental Landing Page]
+3. [Digital Resume Builder]
+4. [To-Do List Web App]
+5. [Student Management Dashboard]
+6. [College Gaming Club Website]
+7. [Blog Website with Markdown]
+8. [ShopEase – E-Commerce Product Listing]
 
 ---
 
