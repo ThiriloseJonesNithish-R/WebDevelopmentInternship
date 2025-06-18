@@ -2,7 +2,7 @@
 
 A clean, dark-themed blogging platform that allows users to write posts using **Markdown syntax** with **live preview**, save them to local storage, and view, edit, or delete them anytime — no backend required.
 
-![Hero Screenshot](screenshots/write-page.png)
+![Hero Screenshot](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/e31904b650933a622d3a061bd52b3a51087c4f45/07_blog-markdown/screenshots/Hero.png)
 
 ---
 
@@ -53,10 +53,10 @@ markdown-blog/
 ## 🖼️ Screenshots
 
 ### 📝 Write Page  
-![Write Page](screenshots/write-page.png)
+![Write Page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/e31904b650933a622d3a061bd52b3a51087c4f45/07_blog-markdown/screenshots/WritePage.png)
 
 ### 📚 View Posts, 🔍 Search, ✏️ Edit, 🗑️ Delete  
-![View Page, Features Page](screenshots/view-page.png)
+![View Page, Features Page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/e31904b650933a622d3a061bd52b3a51087c4f45/07_blog-markdown/screenshots/ViewPage.png)
 
 ---
 
