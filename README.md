@@ -10,9 +10,9 @@ Each project has a clear goal, creative UI, and real-world application!
 
 ## 🧭 Table of Contents
 
-1. [Responsive Portfolio Website](#1-responsive-portfolio-website)
-2. [Rentzy – House Rental Landing Page](#2-rentzy--house-rental-landing-page)
-3. [Digital Resume Builder](#3-digital-resume-builder)
+1. [Responsive Portfolio Website](#01_PersonalPortfolio)
+2. [Rentzy – House Rental Landing Page](#02_LandingPage)
+3. [Digital Resume Builder](#03_ResumeBuilder)
 4. [To-Do List Web App](#4-to-do-list-web-app)
 5. [Student Management Dashboard](#5-student-management-dashboard)
 6. [College Gaming Club Website](#6-college-gaming-club-website)
