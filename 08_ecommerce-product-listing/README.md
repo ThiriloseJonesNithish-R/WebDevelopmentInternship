@@ -6,7 +6,7 @@ Welcome to **ShopEase**, a sleek and responsive e-commerce product listing page 
 
 ## 📸 Preview
 
-![ShopEase Preview](preview.png)
+![ShopEase Preview](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/a348398878a25901f5e576b72b8359d99f450f4c/08_ecommerce-product-listing/images/preview.png)
 
 ---
 
