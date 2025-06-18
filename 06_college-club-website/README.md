@@ -9,12 +9,12 @@ To preview locally, open `index.html` in your browser.
 
 ## 📸 Screenshots
 
-![Home page]()
-![Members page]()
-![Gallery section]()
-![Events section]()
-![About page]()
-![Contact page]()
+![Home page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/Homepage.png)
+![Members page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/MembersPage.png)
+![Gallery section](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/GalleryPage.png)
+![Events section](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/EventsSection.png)
+![About page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/AboutPage.png)
+![Contact page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/ContactPage.png)
 
 ## 📁 Project Structure
 
