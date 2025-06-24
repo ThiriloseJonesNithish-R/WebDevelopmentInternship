@@ -8,6 +8,12 @@ A lightweight, responsive web-based dashboard for managing student records using
 
 ---
 
+## 📽️ Video
+
+https://github.com/user-attachments/assets/1ab842e6-edf1-411e-a180-f9b66d1d6e3d
+
+---
+
 ## 📌 Features
 
 - ✅ Add new student records
