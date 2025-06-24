@@ -15,6 +15,12 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 
 ---
 
+📽️ **Video**
+
+https://github.com/user-attachments/assets/6d82a258-4c9b-4037-8a56-92dd23148600
+
+---
+
 ## 📌 Features
 
 - 📄 About Me, Skills, Projects, and Contact sections  
