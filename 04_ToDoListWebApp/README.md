@@ -55,11 +55,10 @@ ToDoList/
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/yourusername/ToDoList.git
    cd ToDoList
-````
-
+   
 2. **Open the app**
    Simply open `index.html` in your browser.
 
