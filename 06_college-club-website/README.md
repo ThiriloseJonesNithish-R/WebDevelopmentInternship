@@ -16,6 +16,14 @@ To preview locally, open `index.html` in your browser.
 ![About page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/AboutPage.png)
 ![Contact page](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/b121552a0431cdf37c5385c4a4f808a157d5996f/06_college-club-website/images/screenshots/ContactPage.png)
 
+---
+
+## 📽️ Video
+
+https://github.com/user-attachments/assets/0bf0251f-5b94-4b5d-b865-c557a497a2c7
+
+---
+
 ## 📁 Project Structure
 
 ```
