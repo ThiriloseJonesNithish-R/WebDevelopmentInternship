@@ -14,6 +14,12 @@ Rentzy is a modern, responsive landing page for a fictional house rental service
 
 ---
 
+# 📽️ Video
+
+https://github.com/user-attachments/assets/7ce7176d-f95b-451d-aaad-3e29596ed46d
+
+---
+
 ## 📁 Features
 
 - ✅ Sticky Navigation Bar
