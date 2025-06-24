@@ -10,6 +10,12 @@ Welcome to **ShopEase**, a sleek and responsive e-commerce product listing page 
 
 ---
 
+## 📽️ Video
+
+https://github.com/user-attachments/assets/63ac502d-42f7-415e-a4f6-fb31dec8bc7e
+
+---
+
 ## 🌟 Features
 
 - 🔍 **Live Search**: Real-time search bar to find products by name.
