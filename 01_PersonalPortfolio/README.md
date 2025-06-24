@@ -8,6 +8,13 @@ A responsive personal portfolio site showcasing my skills, projects, achievement
 
 🔗 [View Portfolio](https://01portfoliopage.netlify.app/)
 
+---
+
+📸 **Screenshot**  
+![Portfolio Website](https://github.com/ThiriloseJonesNithish-R/WebDevelopmentInternship/blob/4c22092683b75d91ea393e81f179af1f78e2dcec/Screenshots/01_PersonalPortfolio.png)
+
+---
+
 ## 📌 Features
 
 - 📄 About Me, Skills, Projects, and Contact sections  
