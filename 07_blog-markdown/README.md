@@ -6,6 +6,12 @@ A clean, dark-themed blogging platform that allows users to write posts using **
 
 ---
 
+## 📽️ Video
+
+https://github.com/user-attachments/assets/33b57565-a77a-4647-8868-d4d33f8e8968
+
+---
+
 ## 📌 Features
 
 - 🧠 **Markdown Editor** with real-time live preview using `marked.js`
